@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "mrgovinddubey"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Hackers GPT plasmoid for Plasma.",
+        "Icon": "search-symbolic",
+        "Id": "com.mrgovinddubey.hackergpt",
+        "License": "BSD 3.0",
+        "Name": "Hacker GPT",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.8",
+        "Website": "https://github.com/MrGovindDubey/HackerGPT-Plasmoid"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
