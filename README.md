@@ -1,4 +1,7 @@
-# HackerGPT-Plasmoid
+<h1 align="center">HackerGPT-Plasmoid</h1>
+<p align="center">
+  <img src="https://github.com/MrGovindDubey/HackerGPT-Plasmoid/blob/Master/contents/ui/assets/logo.svg" alt="Alt Text" width="300"\>
+</p>
 
 HackerGPT Plasmoid is a KDE Plasma plasmoid that provides easy access to the HackerGPT chat interface directly from your desktop. It allows you to interact with the HackerGPT AI directly from your KDE Plasma environment. HackerGPT is an expert in hacking, particularly in the areas of bug bounty, penetration testing, and identifying vulnerabilities.
 
@@ -14,6 +17,13 @@ HackerGPT Plasmoid is a KDE Plasma plasmoid that provides easy access to the Hac
 - **Personal Assistant**: Use HackerGPT as your personal assistant to perform tasks, answer queries, provide recommendations, and more.
 - **Easy Installation**: Install the HackerGPT Plasmoid with ease on your KDE Plasma desktop and start interacting with the AI right away.
 
+| Image 1 | Image 2 | Image 3 | Image 4 |
+| ------- | ------- | ------- | ------- |
+| ![HackerGPT-Plasmoid1](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/a8178dbe-d7ed-4ed1-ba96-2d6db4fea0e8) | ![HackerGPT-Plasmoid2](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/fa1b6b9f-bf24-4ab5-8545-47305608c4c6) | ![HackerGPT-Plasmoid3](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/09d6ef51-b39b-48d6-8578-392d5b20f3a0) | ![HackerGPT-Plasmoid4](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/96f299e1-9eb7-4a9b-891b-043a083843ef) |
+
+| Image 5 | Image 6 | Image 7 |
+| ------- | ------- | ------- |
+| ![HackerGPT-Plasmoid5](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/ca1601dd-1b6e-4559-958a-fbdac46d28aa) | ![HackerGPT-Plasmoid6](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/4ce2cff4-cdd1-4cab-8029-3c0e69ac192f) | ![HackerGPT-Plasmoid7](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/assets/118271775/392adb5b-aea7-4d4a-92da-38a2f693683d) |
 
 
 ## Installation
@@ -39,9 +49,6 @@ To install the HackerGPT Plasmoid, follow these steps:
 
 Enjoy using HackerGPT directly from your KDE Plasma desktop!
 
-
-
-
 ## Bugs and Feature Requests
 
 If you encounter any bugs or have suggestions for new features, please open an issue on the [GitHub Issues](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/issues) page. Your feedback is highly appreciated and will help improve the HackerGPT Plasmoid.
@@ -56,3 +63,10 @@ The HackerGPT Plasmoid is based on the [Plasma Plasmoid](https://develop.kde.org
 
 "Contributions and feedback are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the HackerGPT Plasmoid."
 "Enjoying the HackerGPT Plasmoid? Show your support by starring the repository if you find it useful!"
+
+
+
+
+
+
+
