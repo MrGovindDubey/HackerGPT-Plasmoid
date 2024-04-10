@@ -28,6 +28,12 @@ HackerGPT Plasmoid is a KDE Plasma plasmoid that provides easy access to the Hac
 
 ## Installation
 
+KDE STORE :  https://www.pling.com/p/2145871/
+
+
+
+### Manual installation :
+
 To install the HackerGPT Plasmoid, follow these steps:
 
 1. Download the latest release from the [Releases](https://github.com/MrGovindDubey/HackerGPT-Plasmoid/releases) page and unzip the downloaded file.
