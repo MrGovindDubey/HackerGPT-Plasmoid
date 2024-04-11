@@ -40,7 +40,7 @@ To install the HackerGPT Plasmoid, follow these steps:
 
 2. Navigate to the extracted directory in your terminal.
 
-3. Move the com.mrgovinddubey.hackergpt directory to /home/<user>/.local/share/plasma/plasmoids/. Replace <user> with your actual username. You can do this by running the following command:
+3. Move the com.mrgovinddubey.hackergpt directory to `/home/<user>/.local/share/plasma/plasmoids/`. Replace `<user>` with your actual username. You can do this by running the following command:
     ```bash
     mv com.mrgovinddubey.hackergpt /home/<user>/.local/share/plasma/plasmoids/
     ```
