@@ -160,7 +160,7 @@ Item {
 
 				id: hackergptWebView
 				focus: true
-				url: "https://chat.hackerai.co"
+				url: "https://pentestgpt.ai/c"
 
 				profile: WebEngineProfile {
 					id: hackergptProfile
